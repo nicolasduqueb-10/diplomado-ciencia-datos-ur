@@ -1,4 +1,4 @@
-# Introducción a Python para Ciencia de Datos
+# Diplomado en Ciencia de Datos
 
 Este repositorio contiene el material dictado en el marco del  Diplomado en Ciencia de Datos en la Universidad del Rosario.
 
